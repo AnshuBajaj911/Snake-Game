@@ -1,6 +1,8 @@
 # Snake-Game-
 Snake Game (Old School)
-# How To Run ?
+# Link to running code on browser:
+https://snakegame-3p34g812s1pkk57pqdk.codequotient.in  
+# How To Run on Your Machine?
 Simple C compiler as the application is console based
 # Commands for GCC Compiler
 -> Save the source Code in main.c file
